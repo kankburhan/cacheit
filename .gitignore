@@ -1,0 +1,6 @@
+bin/*
+dist/*
+*.txt
+*.crt
+*.key
+.vscode/*

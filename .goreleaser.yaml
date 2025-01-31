@@ -1,0 +1,23 @@
+version: 2
+
+builds:
+  - binary: takeit
+    main: cmd/cacheit/main.go
+    ldflags: 
+      - "X main.version={{.Tag}}"
+    goos:
+      - linux
+      - windows
+      - darwin
+    goarch:
+      - amd64
+      - 386
+      - arm
+      - arm64
+
+archives:
+  - id: tgz
+    format: tar.gz
+    format_overrides:
+      - goos: windows
+        format: zip
