@@ -21,7 +21,7 @@ A smart pipeline caching toolkit for security researchers and developers. Automa
 
 ### From Source
 ```bash
-go install github.com/kankburhan/cacheit@latest
+go install github.com/kankburhan/cacheit/cmd/cacheit@latest
 ```
 
 ### Pre-built Binaries
