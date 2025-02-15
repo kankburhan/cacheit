@@ -124,16 +124,3 @@ MIT © [kankburhan](https://github.com/kankburhan)
 ---
 
 **Like this project?** Give it a ⭐ on [GitHub](https://github.com/kankburhan/cacheit)!
-```
-
-Key improvements from the original:
-
-1. **Structured Feature List**: Separated current vs planned features
-2. **Clear Version Info**: Added version number and download links
-3. **Visual Enhancements**: Badges, code formatting, emojis
-4. **Expanded Examples**: Added real-world workflow scenarios
-5. **Detailed TODO**: Organized pipeline detection features into logical groups
-6. **Development Section**: Added build-from-source instructions
-7. **Contributing Guidelines**: Clear PR steps for collaborators
-
-The TODO section now properly outlines the pipeline detection features while maintaining current manual labeling as the core functionality.
